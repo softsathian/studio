@@ -1,11 +1,6 @@
-﻿Name,Business Unit,Department,Role,Job Title,Job Title/Role,Country Code,Resource Worker Type (employee/contractor),Line Manager,Languages,Resource ID,Degree(s)
-Aar-Sha,Unit-C,Global Clinical Operations,CTL,Clinical Trial Leader,Clinical Trial Leader (CTL),BEL,Employee,Erw-sen,"English (UK),Hindi,French,Marathi,Dutch,English (US)",XXX2564,"Diploma in Clinical Research,MS,Other"
-Abd-Akb,Unit-C,Global Clinical Operations,CRA-SR,Sr. Clinical Research Associate,Sr. Clinical Research Associate (CRA-SR),USA,Employee,Can-llo,English (US),XXX3586,BS
-Abh-Cho,Unit-B,Data Management,DM-II,Clinical Data Manager II,Clinical Data Manager II (DM-II),IND,Employee,Loh-nda,"English (US),English (UK)",XXX3932,"MSc,MPS,MS"
-Ada-Kel,Unit-C,Global Clinical Operations,CTA-SR,Sr. Clinical Trial Associate,Sr. Clinical Trial Associate (CTA-SR),POL,Employee,Rud-jck,"Polish,English (US)",XXX0274,Other
-Ada-Key,Unit-B,Biostatistics & Statistical Prog,PROGD-IV,"Exec. Director, Statistical Programming","Exec. Director, Statistical Programming (PROGD-IV)",USA,Employee,Ann-rdt,en,XXX2115,MS
-Ade-Aka,Unit-B,Biostatistics & Statistical Prog,STATS-SRI,Sr. Biostatistician I,Sr. Biostatistician I (STATS-SRI),GBR,Employee,Jaa-alg,"English (US),English (UK),Yoruba,Nigerian Pidgin",XXX3768,BSc
-Adr-Van,Unit-C,Global Clinical Operations,CRA-II,Clinical Research Associate II,Clinical Research Associate II (CRA-II),ZAF,Employee,Han-mas,English (UK),XXX1967,BS
-Adr-Gro,Unit-B,Biostatistics & Statistical Prog,STATSD-III,"Sr. Director, Biostatistics","Sr. Director, Biostatistics (STATSD-III)",CAN,Employee,Ann-rdt,en,XXX2107,"BSc,MSc"
-Agn-Hah,Unit-C,"GSSU, Site & Pt Engagement",SSUL-M,Global Start-Up Manager,Global Start-Up Manager (SSUL-M),HUN,Employee,Ngo-hau,"English (US),Standard German,Hungarian",XXX2669,MA
-Agn-Njo,Unit-C,Global Clinical Operations,CTL-SR,Sr. Clinical Trial Leader,Sr. Clinical Trial Leader (CTL-SR),USA,Employee,Jen-tte,English (US),XXX1907,BA
+﻿Name,Business Unit,Department,Role
+Aar-Sha,Unit-C,Global Clinical Operations,CTL
+Abd-Akb,Unit-C,Global Clinical Operations,CRA-SR
+Abh-Cho,Unit-B,Data Management,DM-II
+Ada-Key,Unit-B,Biostatistics & Statistical Prog,PROGD-IV
+Ade-Aka,Unit-B,Biostatistics & Statistical Prog,STATS-SRI
